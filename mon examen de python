@@ -1,0 +1,8 @@
+label_resultat = tk.Label(app,
+                          text="",
+                          bg="#0B3D91",
+                          fg="yellow",
+                          font=("Arial", 14))
+label_resultat.pack(pady=10)
+
+app.mainloop()
